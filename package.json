@@ -1,0 +1,19 @@
+{
+  "name": "redditbooru-node",
+  "version": "0.0.1",
+  "description": "Standalone node for redditbooru image processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redditbooru",
+    "node",
+    "javascript"
+  ],
+  "author": "Matt Hackmann",
+  "license": "WTFPL",
+  "dependencies": {
+    "canvas": "^1.3.12"
+  }
+}
